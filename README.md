@@ -12,7 +12,7 @@ Please fill in the information below by the second Monday of the semester at 9:0
 
 | Student ID           | Student Full Name       | SFSU Email            |Database Topic                                                             |
 |:---------------------:|:---------------------------:|:---------------------------:|:-------------------------------------------------------------------------:|
-|          923609710             |            Nicholas Wendt             |            nwendt@sfsu.edu             |                                   <br>                                    |
+|          923609710             |            Nicholas Wendt             |            nwendt@sfsu.edu             |        Hotel Reservation System                           <br>                                    |
 
 Please choose a topic from this **[list of topics](milestones/res/TOPICS.md)** for the database system
 you will create in this class.
