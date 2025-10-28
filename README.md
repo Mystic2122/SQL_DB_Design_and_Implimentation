@@ -1,6 +1,9 @@
 # Overview
-This is a project for CSC 675 - Introduction to Databases. This hotel management database design and implimentation uses MySQL. This project is meant to showcase an understanding of entity relationships modeling, normalization techniques, CRUD operations, and SQL triggers.  
+
+This is a project for CSC 675 - Introduction to Databases. This hotel management database design and implementation uses MySQL. This project is meant to showcase an understanding of entity-relationship modeling, normalization techniques, CRUD operations, and SQL triggers.
+
 ---
+
 ## Folder Structure
 
 - **Milestone 1**
@@ -11,15 +14,15 @@ This is a project for CSC 675 - Introduction to Databases. This hotel management
 - **Milestone 2**
   - Database Design
   - Entity-Relationship Diagram (ERD)
-  - Entity Description.
+  - Entity Description
 
 - **Milestone 3**
   - Database Architecture
   - Enhanced Entity-Relationship (EER)
-  - Database Normalization 
+  - Database Normalization
 
 - **Milestone 4**
-  - Forwarding Engineering Process
+  - Forward Engineering Process
   - Sample Data
   - Database Business Requirements
   - Object-Relational Mapping (ORM) Architecture
